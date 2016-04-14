@@ -9,5 +9,5 @@ one:
 two:
   title: MyString
   note: MyText
-  completed: false
+  completed: true
   list: list_one
